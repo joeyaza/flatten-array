@@ -1,0 +1,22 @@
+{
+  "name": "flatten-array",
+  "version": "1.0.0",
+  "description": "Flatten nested array ",
+  "main": "flattenArray.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeyaza/flatten-array.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeyaza/flatten-array/issues"
+  },
+  "homepage": "https://github.com/joeyaza/flatten-array#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
