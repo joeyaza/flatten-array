@@ -9,7 +9,7 @@ describe("flattenArray", () => {
     
             expect(() => {
                 flattenArray(2)
-              }).toThrow("Input is not an array");
+              }).toThrow("Input array is faulty");
     
         });
     
