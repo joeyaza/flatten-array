@@ -9,7 +9,7 @@ const flattenArray = (arr) => {
           }, []);
 
 
-    } catch(error) {
+    } catch {
 
         throw new Error("Input array is faulty");
 
